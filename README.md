@@ -1,5 +1,5 @@
 # Hi 👋, I'm Krzysztof
-Maintenance engineer with almost 10 years of professional experiencie, and third year applied computer science student looking for opportunities to start new chapter of career as .NET backend programmer.
+Maintenance Engineer with almost 10 years of professional experience and third year Applied Computer Science student looking for an opportunity to start a new chapter in his career as a .NET back-end developer.
 
 <h3 align="left">Languages and Tools:</h3>
 <p> 
