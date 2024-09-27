@@ -14,8 +14,11 @@ Maintenance Engineer with almost 10 years of professional experience and third y
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+## Currently working on:
+* 📚 Fifth semester of Applied Computer Science
+
 ## Noteworthy repositories:
-* [**MaintenancePlanner**](https://github.com/Skowoo/MaintenancePlanner) - Training project I'm currently working on. Small API to dwelve into Microservices.
+* [**MaintenancePlanner**](https://github.com/Skowoo/MaintenancePlanner) - Small API to dwelve into Microservices and containers.
 * [**DocumentApi**](https://github.com/Skowoo/DocumentApi) - Simple monolitic REST API with tests created as a semestral project. Basic client SPA included.
 * [**LeetCode**](https://github.com/Skowoo/LeetCode) - Repository with LeetCode solutions - [**profile link**](https://leetcode.com/u/Skowoo/)
 * [**DocumentAssistant**](https://github.com/Skowoo/DocumentAssistant) - Desktop application with CRUD funcionality. Old project kept to be refactorized in future.
